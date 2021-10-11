@@ -4,9 +4,13 @@ Software Developer specializing in PHP.
 
 ---
 
-Links
+How to me:
 
-<a href="https://www.linkedin.com/in/armands-vilciņš/">LinkedIn</a>
+Phone: +371 26280303
+
+Email: armandsvilcins3@inbox.lv
+
+LinkedIn: https://www.linkedin.com/in/armands-vilciņš/
 
 ---
 

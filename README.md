@@ -2,7 +2,7 @@
 Young aspiring software developer
 ---
 🧰 Toolbox <br/>
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/phpstorm.svg" alt="PhpStorm Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/>

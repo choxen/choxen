@@ -4,7 +4,7 @@ Software Developer specializing in PHP.
 
 ---
 
-How to me:
+How to reach me:
 
 Phone: +371 26280303
 

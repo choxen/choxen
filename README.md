@@ -5,6 +5,7 @@ Software Developer specializing in PHP.
 ---
 
 Links
+
 <a href="https://www.linkedin.com/in/armands-vilciņš/">LinkedIn</a>
 
 ---

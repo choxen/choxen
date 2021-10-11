@@ -5,7 +5,7 @@ Software Developer specializing in PHP.
 ---
 
 Links
-<a href=""><i src="https://i.pinimg.com/474x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg"></i></a>
+<a href="https://www.linkedin.com/in/armands-vilciņš/">LinkedIn</a>
 
 ---
 

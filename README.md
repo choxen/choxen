@@ -6,11 +6,11 @@ Software Developer specializing in PHP.
 
 How to reach me:
 
-Phone: +371 26280303
+* Phone: +371 26280303
 
-Email: armandsvilcins3@inbox.lv
+* Email: armandsvilcins3@inbox.lv
 
-LinkedIn: https://www.linkedin.com/in/armands-vilciņš/
+* LinkedIn: https://www.linkedin.com/in/armands-vilciņš/
 
 ---
 

@@ -16,7 +16,12 @@ How to reach me:
 
 🧰 Toolbox
 
-PHP Laravel MySQL PhpStorm HTML CSS
+* PHP
+* Laravel 
+* MySQL 
+* PhpStorm
+* HTML
+* CSS
 
 ---
 

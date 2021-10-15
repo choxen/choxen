@@ -20,5 +20,3 @@ How to reach me:
 * PhpStorm
 * HTML
 * CSS
-
----

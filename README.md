@@ -1,21 +1,20 @@
-<div>
-    <h1>
-        Hi, there! I'm <font color="lightblue">Armands Vilciņš</span>
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    </h1>
-</div>
+<h3>
+    Hi, there! I'm <a href="https://github.com/choxen/">Armands Vilciņš</a>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h3>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AAB0B6&center=false&width=435&height=35&lines=Full-stack+web+and+game+developer;2%2B+years+of+coding+experience;Always+learning+new+things">
 </a>
 
-## 📖 Contact me:
+### 📖 Contact me:
 - Phone: +371 26280303
 - Secondary phone: +358 0404496896
 - Email: vilcins60@gmail.com
 - LinkedIn: https://www.linkedin.com/in/armands-vilciņš
 
-## ⚡Technologies:
+### ⚡Technologies:
+> Tools, languages, and other things that I work with.
 <p>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp icon">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP icon">

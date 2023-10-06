@@ -1,12 +1,11 @@
-<p>
-    <font size="5">
-        <b>Hi, there! I'm <font color="lightblue">Armands Vilciņš</font></b>
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    </font>
-</p>
+<h1>
+    Hi, there! I'm <font color="lightblue">Armands Vilciņš</span>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+<!-- -->
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AAB0B6&center=false&width=435&height=35&lines=Full-stack+web+and+game+developer;2%2B+years+of+coding+experience;Always+learning+new+things"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AAB0B6&center=false&width=435&height=35&lines=Full-stack+web+and+game+developer;2%2B+years+of+coding+experience;Always+learning+new+things">
 </a>
 
 ## 📖 Contact me:

@@ -9,7 +9,6 @@
 
 ### 📖 Contact me:
 - Phone: +371 26280303
-- Secondary phone: +358 0404496896
 - Email: vilcins60@gmail.com
 - LinkedIn: https://www.linkedin.com/in/armands-vilciņš
 

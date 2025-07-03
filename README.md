@@ -4,12 +4,12 @@
 </h3>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AAB0B6&center=false&width=435&height=35&lines=Full-stack+web+and+game+developer;2%2B+years+of+coding+experience;Always+learning+new+things">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AAB0B6&center=false&width=435&height=35&lines=Full-stack+web+and+game+developer;2%4B+years+of+coding+experience;Always+learning+new+things">
 </a>
 
 ### 📖 Contact me:
 - Phone: +371 26280303
-- Email: vilcins60@gmail.com
+- Email: choxen@evolent.dev
 - LinkedIn: https://www.linkedin.com/in/armands-vilciņš
 
 ### ⚡Technologies:
